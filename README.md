@@ -8,7 +8,7 @@
 #### CPT
 ![App Screenshot](https://archive.org/download/modul4/tCPT.png)
 #### GNS3
-![App Screenshot](https://archive.org/download/cisco-packet-tracer-c-users-lenovo-one-drive-dokumen-t-3-mp-jkm-mod-4-jarkom-mod/tGNS3.png)
+![App Screenshot](https://archive.org/download/tGNS3/tGNS3.png)
 ## VLSM
 #### Subnetting
 Selanjutnya kita akan melakukan subnetting dengan metode VLSM pada CPT, kita akan membagi gambar pada
