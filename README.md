@@ -72,7 +72,7 @@ Subnet A1 :
     Netmask : 255.255.252.0
     IP range : 10.44.0.1 - 10.44.3.254
 ```
-Selanjutnya kita atur pada setiap node, contohnya pada node The Order yang terhubung pada A1 adalah
+Selanjutnya kita atur pada setiap node, contohnya pada node The Minister yang terhubung pada A1 adalah
 kabel FastEthernernet0/0, maka kita ubah interface The Minister menjadi seperti berikut:
 ![App Screenshot](https://archive.org/download/cisco-packet-tracer-c-users-lenovo-one-drive-dokumen-t-3-mp-jkm-mod-4-jarkom-mod/The%20Minister%2011_25_2022%201_25_54%20PM.png)
 
