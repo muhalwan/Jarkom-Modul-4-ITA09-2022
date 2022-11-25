@@ -85,7 +85,7 @@ Guideau menjadi 10.44.0.2 karena 10.44.0.1 telah dipakai oleh router.
 
 Langkah tersebut dilakukan untuk semua router dan client yang ada sesuai pembagian subnetting.
 
-#### Subnetting
+#### Routing
 Setelah semua router dan client kita atur dan berikan IP yang sesuai dengan subnetting, selanjutnya kita
 akan melakukan routing untuk menghubungkan semua node.
 Contohnya pada router The Minister.
